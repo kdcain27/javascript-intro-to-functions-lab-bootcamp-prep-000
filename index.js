@@ -16,7 +16,7 @@ function logWhisper(string) {
 
 
 
-var string
+var string = "hey gammy"
 
 function sayHiToGandma(string) {
   if (string.toLowerCase()) {
