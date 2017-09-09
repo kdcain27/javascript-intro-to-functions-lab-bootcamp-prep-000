@@ -23,7 +23,7 @@ function sayHiToGandma(string) {
     return "I can't hear you!"}
   if (string.toUpperCase()) {
     return "YES INDEED!"}
-  else if (love){
+  else if (string === (love)){
     return "I love you, too."}
 
   }
