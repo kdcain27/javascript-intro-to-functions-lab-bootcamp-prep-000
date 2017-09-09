@@ -14,18 +14,18 @@ function logWhisper(string) {
   console.log("hello")
 }
 var uppercase = "HELLO!"
- 
+
 uppercase.toUpperCase() === uppercase // true
- 
+
 var lowercase = 'hello!'
- 
+
 lowercase.toLowerCase() === lowercase // true
- 
+
 var mixedCase = 'Hi there!'
- 
+
 mixedCase.toLowerCase() === mixedCase // false
- 
-mixedCase.toUpperCase() === mixedCase 
+
+mixedCase.toUpperCase() === mixedCase
 
 function sayHiToGandma(string) {
   if (string).toLowerCase() {
