@@ -15,7 +15,7 @@ function logWhisper(string) {
 }
 
 function sayHiToGandma(string) {
-  if ("$string" === lowercase)
+  if (string === lowercase)
     return "I can't hear you!"
   else if ("string" === uppercase)
     return "YES INDEED!"
