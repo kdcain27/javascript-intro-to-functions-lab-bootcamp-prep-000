@@ -22,7 +22,7 @@ var lowercase = "hello"
 
 lowercase.toLowerCase() === lowercase // true
 
-var love === "I love you, Grandma."
+var love = "I love you, Grandma."
 
 function sayHiToGandma() {
   if (lowercase) {
