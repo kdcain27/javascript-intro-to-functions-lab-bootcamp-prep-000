@@ -14,7 +14,7 @@ function logWhisper(string) {
   console.log("hello")
 }
 
-var string = 'HELLO!'.toUpperCase
+var string = "hello".toLowerCase
 
 function sayHiToGandma(string) {
   if (string.toLowerCase()) {
