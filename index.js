@@ -23,6 +23,3 @@ function sayHiToGandma(string) {
     return "I love you, too."
 
   }
-
-  
-
