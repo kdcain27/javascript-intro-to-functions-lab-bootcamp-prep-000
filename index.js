@@ -24,10 +24,10 @@ lowercase.toLowerCase() === lowercase // true
 
 var love = "I love you, Grandma."
 
-function sayHiToGandma() {
-  if (lowercase) {
+function sayHiToGandma(string) {
+  if (string.toLowerCase) {
     return "I can't hear you!"}
-  if (uppercase) {
+  if (string.toUpperCase) {
     return "YES INDEED!"}
   else if (love){
     return "I love you, too."}
