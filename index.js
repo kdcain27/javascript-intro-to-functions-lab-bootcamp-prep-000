@@ -1,3 +1,5 @@
+var string = "hey gammy"
+
 function shout(string) {
   return string.toUpperCase()
 }
@@ -15,8 +17,6 @@ function logWhisper(string) {
 }
 
 
-
-var string = "hey gammy"
 
 function sayHiToGandma() {
   if (string.toLowerCase()) {
