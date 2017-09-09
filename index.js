@@ -1,5 +1,3 @@
-var string = "hey gammy"
-
 function shout(string) {
   return string.toUpperCase()
 }
@@ -16,12 +14,12 @@ function logWhisper(string) {
   console.log("hello")
 }
 
-
+var string = 'HELLO!'.toUpperCase
 
 function sayHiToGandma(string) {
-  if string.toLowerCase() {
+  if (string.toLowerCase()) {
     return "I can't hear you!"}
-  if string.toUpperCase() {
+  if (string.toUpperCase()) {
     return "YES INDEED!"}
   else if (string === "I love you, Grandma."){
     return "I love you, too."}
