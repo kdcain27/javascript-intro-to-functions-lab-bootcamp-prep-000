@@ -18,7 +18,7 @@ function logWhisper(string) {
 
 
 
-function sayHiToGandma() {
+function sayHiToGandma(string) {
   if (string.toLowerCase()) {
     return "I can't hear you!"}
   if (string.toUpperCase()) {
