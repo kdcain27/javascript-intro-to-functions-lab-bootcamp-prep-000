@@ -16,14 +16,14 @@ function logWhisper(string) {
 
 
 
-var love = "I love you, Grandma."
+var string
 
 function sayHiToGandma(string) {
-  if ((string).toLowerCase()) {
+  if (string.toLowerCase()) {
     return "I can't hear you!"}
-  if ((string).toUpperCase()) {
+  if (string.toUpperCase()) {
     return "YES INDEED!"}
-  else if ((string) === (love)){
+  else if (string === "I love you, Grandma."){
     return "I love you, too."}
 
   }
